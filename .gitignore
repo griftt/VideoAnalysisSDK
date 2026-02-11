@@ -11,13 +11,13 @@ DerivedData/
 # 测试资源文件（视频和模型文件较大，不提交到 Git）
 Tests/VideoAnalysisSDKTests/Resources/*.mp4
 Tests/VideoAnalysisSDKTests/Resources/*.mov
-Tests/VideoAnalysisSDKTests/Resources/*.mlmodelc
-Tests/VideoAnalysisSDKTests/Resources/*.mlpackage
+# Tests/VideoAnalysisSDKTests/Resources/*.mlmodelc
+# Tests/VideoAnalysisSDKTests/Resources/*.mlpackage
 
 # 构建产物
-build/
-*.xcframework
-*.zip
+# build/
+# *.xcframework
+# *.zip
 
 # 临时文件
 *.swp
