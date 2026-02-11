@@ -15,9 +15,9 @@ Tests/VideoAnalysisSDKTests/Resources/*.mov
 # Tests/VideoAnalysisSDKTests/Resources/*.mlpackage
 
 # 构建产物
-# build/
-# *.xcframework
-# *.zip
+build/
+*.xcframework
+*.zip
 
 # 临时文件
 *.swp
